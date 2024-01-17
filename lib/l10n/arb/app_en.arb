@@ -1,0 +1,43 @@
+{
+    "@@locale": "en",
+    "counterAppBarTitle": "Counter",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "homeAppBarTitle": "Pokemon Challenge",
+    "@homeAppBarTitle": {
+        "description": "Text shown in the AppBar of the Home Page"
+    },
+    "searchTextFieldPlaceholder": "Search Pokemon",
+    "@searchPokemonText": {
+        "description": "Text shown in the search pokemon textfield"
+    },
+    "seeDetails": "See details",
+    "@seeDetailsText": {
+        "description": "Text shown in the pokemon tile"
+    },
+    "abilities": "Abilities",
+    "@abilitiesText": {
+    "description": ""
+    },
+    "types": "Types",
+    "@typesText": {
+    "description": ""
+    },
+    "characteristics": "Characteristics",
+    "@characteristicsText": {
+    "description": ""
+    },
+    "weight": "Weight",
+    "@weight": {
+        "description": "Label for weight attribute"
+    },
+    "height": "Height",
+    "@height": {
+        "description": "Label for height attribute"
+    },
+    "species": "Species",
+    "@species": {
+        "description": "Label for species attribute"
+    }
+}
